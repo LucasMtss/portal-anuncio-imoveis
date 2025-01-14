@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import sampleImage from "@/../public/sample-image.png"; // Substitua pelo caminho de sua imagem de exemplo
+import sampleImage from "@/../public/logo.png";
 import CardBlogContentPreview, { IBlogData } from "@/components/common/CardBlogContentPreview";
 
 describe("CardBlogContentPreview Component", () => {
@@ -15,7 +15,7 @@ describe("CardBlogContentPreview Component", () => {
     
     const image = screen.getByAltText("Blog Image");
     expect(image).toBeInTheDocument();
-    expect(image).toHaveAttribute("src"); // Verifica se a imagem tem um src
+    expect(image).toHaveAttribute("src");
   });
 
   it("displays the correct reading time", () => {

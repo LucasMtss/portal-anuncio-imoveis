@@ -17,7 +17,6 @@ export default function CarouselSection() {
         try {
             const response = await client.getProperties();
             setProperties(response);
-            console.log(response)
         } catch (error) {
             console.error('Error fetching properties', error);
         }

@@ -12,7 +12,6 @@ import Hero from "@/components/specific/Hero";
 import PortugalSection from "@/components/specific/PortugalSection";
 import ReasonsSection from "@/components/specific/ReasonsSection";
 import StatesSection from "@/components/specific/StatesSection";
-import Image from "next/image";
 
 export default function Home() {
   return (
