@@ -4,6 +4,8 @@
 2 - Buildar o projeto com `yarn build` ou `npm run build` 
 3 - Rodar o projeto com `yarn start` ou `npm run start`.
 
+OBS: também foi feito um deploy na vercel que pode ser acessado por [esse link](https://portal-anuncio-imoveis-37supvz8d-lucas-matos-projects-5bb64223.vercel.app/)
+
 # Tecnologias e ferramentas usadas
 
 Para o desenvolvimento do projeto foi utilizado Next, Typescript e Tailwind como solicitado.
