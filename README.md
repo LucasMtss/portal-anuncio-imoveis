@@ -24,7 +24,7 @@ Apesar de não ter feito tudo que gostaria, fiquei feliz com o resultado e estou
 
 # Observações
 
-Não consegui achar os ícones iguais do Figma, então peguei do Font Awesome para não perder tempo procurando.
+Não consegui achar os ícones iguais do Figma, então peguei do `react-icons` para não perder tempo procurando.
 
 Tentei seguir o pixel perfect mesmo que alguns margins, paddings, tamanhos de fontes pareciam não estar no padrão do tailwind (Ex. margin 31px, font-size 34px).
 
