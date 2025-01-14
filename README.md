@@ -1,6 +1,8 @@
 # Como instalar e executar o código
 
-Após clonar o repositório, basta instalar as dependências com `npm i` ou `yarn` e depois rodar o projeto com `yarn dev` ou `npm run dev`.
+1 - Após clonar o repositório, basta instalar as dependências com `npm i` ou `yarn`
+2 - Buildar o projeto com `yarn build` ou `npm run build` 
+3 - Rodar o projeto com `yarn start` ou `npm run start`.
 
 # Tecnologias e ferramentas usadas
 
