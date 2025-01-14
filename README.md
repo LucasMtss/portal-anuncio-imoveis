@@ -1,8 +1,8 @@
 # Como instalar e executar o código
 
-1 - Após clonar o repositório, basta instalar as dependências com `npm i` ou `yarn`
-2 - Buildar o projeto com `yarn build` ou `npm run build` 
-3 - Rodar o projeto com `yarn start` ou `npm run start`.
+1. Após clonar o repositório, basta instalar as dependências com `npm i` ou `yarn`
+2. Buildar o projeto com `yarn build` ou `npm run build` 
+3. Rodar o projeto com `yarn start` ou `npm run start`.
 
 OBS: também foi feito um deploy na vercel que pode ser acessado por [esse link](https://portal-anuncio-imoveis-37supvz8d-lucas-matos-projects-5bb64223.vercel.app/)
 
